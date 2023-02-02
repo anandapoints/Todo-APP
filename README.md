@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-[LIVE DEMO(https://todo-app.anandapoints.repl.co/)
+[LIVE DEMO](https://todo-app.anandapoints.repl.co/)
 
 ![Screenshot 2023-02-02 at 7 23 43 AM](https://user-images.githubusercontent.com/107668336/216211969-7e2118b0-1d29-4b99-a42e-5940aa871c15.png)
 
